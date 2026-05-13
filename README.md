@@ -130,7 +130,7 @@ No installs. No build steps. Just open and go.
 | **Course** | INFO 251 – Web Development II |
 | **Semester** | Spring 2026 |
 | **Project Type** | Final Project |
-| **School** | [Your School Name] |
+| **School** |American Univerisity of Phnom Penh|
 
 ---
 
