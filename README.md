@@ -6,19 +6,6 @@
 
 ---
 
-## 👥 Team Members
-
-| Name | Role |
-|------|------|
-| KINKOEU Sophanvotey | |
-| LY Sokpisey | |
-| POS Kakrona | |
-| SIM Seangly | |
-| SU Yee HninSU | |
-| VEASNA Dary | |
-
----
-
 ## 🚀 Features
 
 ### Core Features
@@ -46,6 +33,4 @@
 
 > ⚠️ No JavaScript frameworks (React, Vue, Angular) are used — pure vanilla JS as per course requirements.
 
----
 
-## 📁 Folder Structure
