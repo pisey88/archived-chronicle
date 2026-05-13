@@ -6,12 +6,6 @@ Archived Chronicle is an interactive web application that transforms any date in
 
 ---
 
-## 🌍 Live Demo
-
-🔗 [View Project](https://github.com/pisey88/archived-chronicle)
-
----
-
 ## 📖 About The Project
 
 Most people scroll through their calendar without realizing that every single day is loaded with incredible moments from world history. Archived Chronicle changes that.
