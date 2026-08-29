@@ -12,7 +12,7 @@ Most people scroll through their calendar without realizing that every single da
 
 Pick any date. Instantly discover the wars that started, the legends that were born, the inventions that changed the world, and the moments that shaped humanity — all on that exact day throughout history.
 
-This project was built as a Final Project for **INFO 251 – Web Development II** at **[Your School Name]**, Spring 2026.
+This project was built as a Final Project for **INFO 251 – Web Development II** at **American University of Phnom Penh**, Spring 2026.
 
 ---
 
